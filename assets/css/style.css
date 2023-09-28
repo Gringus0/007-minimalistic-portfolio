@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.experienceListInfo {
+    list-style-type: disc;
+    margin: 10px 0px 0px 20px;
+}
+
+.vividBlue {
+    color: #008cff;
+}
+
+img {
+    width: 200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.leftSideSubList {
+    padding-left: 0;
+}
+
+.leftSideSubListItem {
+    border-bottom: 1px dashed rgba(80, 80, 80, 0.5);
+}
+
+.rightSideSubListItem {
+    border-bottom: 1px solid rgba(80, 80, 80, 0.5);
+    margin: 5px;
+}
+
+.progress {
+    border-radius: 50px;
+    background-color: #000000;
+}
+
+.progress-bar {
+    background-color: #008cff;
+    border-radius: 50px;
+}
+
+.fa-github { 
+    font-size: 50px;
+}
+
+#githubLink {
+    color: #008cff;
+}
